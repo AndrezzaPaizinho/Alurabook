@@ -55,6 +55,7 @@
     background-clip: text;
     padding: 1em;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .container__botao {
